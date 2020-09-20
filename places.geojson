@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Plaza de Queilen",
+        "name": "Plaza de Queilen",
         "country": "Chile",
         "flag": "🇨🇱",
         "description": "blah, blah",
