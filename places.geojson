@@ -5,6 +5,8 @@
       "type": "Feature",
       "properties": {
         "title": "Plaza de Queilen",
+        "country": "Chile",
+        "flag": "🇨🇱",
         "description": "blah, blah",
         "instagram": 682406544,
         "icon": "marker"
