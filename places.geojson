@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ak16994521",
+        "title": "ak16994521",
         "mag": 2.3,
         "time": 1507425650893,
         "felt": null,
@@ -13,8 +13,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.5129,
-          63.1016,
+          -73.472026,
+          -42.889934,
           0
         ]
       }
